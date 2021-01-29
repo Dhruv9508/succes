@@ -27,6 +27,7 @@ class Player {
       distance: this.distance,
       x:this.x,
       rank: this.rank,
+      index:this.index
     });
   }
 
